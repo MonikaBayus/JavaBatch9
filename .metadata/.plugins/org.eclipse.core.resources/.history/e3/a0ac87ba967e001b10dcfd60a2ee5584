@@ -1,0 +1,26 @@
+package class011;
+
+import java.util.Scanner;
+
+public class Task1 {
+
+	public static void main(String[] args) {
+		
+		
+	Scanner scanner = new Scanner(System.in);
+	System.out.println("How many double values would you like to store?");
+	int values = scanner.nextInt();
+	System.out.println("Please enter double value: "); 
+	double doub = scanner.nextDouble();
+	
+		
+		
+		
+
+	}
+
+}
+
+
+//create array on double values using scanner
+//calculate the sum of all stored elements in an array

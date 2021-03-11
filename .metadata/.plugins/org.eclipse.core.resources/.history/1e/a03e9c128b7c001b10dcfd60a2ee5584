@@ -1,0 +1,27 @@
+package class10;
+
+public class task2 {
+
+	public static void main(String[] args) {
+		
+		
+		String[]names = { "Anna", "Jane", "Eva", "Ola"};
+		System.out.println(names[3]);
+		
+
+	}
+
+}
+
+//Create an array of names and store all names of your group. 
+//Then print your name from that array. (use 2 different ways of creating an array).
+//
+//
+//Create an array of words: Java, Saturday, day, coding, is. 
+//Print the following sentence using elements of array: “Saturday is Java coding Day”.
+
+
+
+
+
+

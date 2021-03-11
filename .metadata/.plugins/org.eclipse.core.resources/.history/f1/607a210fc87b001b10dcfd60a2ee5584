@@ -1,0 +1,39 @@
+package class09;
+
+public class Pattern {
+	public static void main(String[] args) {
+		
+		//printing stars in one line
+		
+		for(int row=1; row<=6; row++) {
+			//System.out.print(" * " );
+			
+			for(int column=1;column<=8; column++) {//first we are printing first column
+				System.out.print(" * ");
+				
+			}
+			System.out.println();//break after first row, to move to next row
+			
+			}
+			
+			
+		
+		System.out.println("--------------------------------------------");
+		
+		
+		for (int a = 1; a<=4; a++) {
+			for(int b =1; b<=5; b++) {
+				System.out.print(b);
+			}
+			System.out.println();
+		}
+		
+		
+		
+		
+		}
+	
+		
+	}
+
+

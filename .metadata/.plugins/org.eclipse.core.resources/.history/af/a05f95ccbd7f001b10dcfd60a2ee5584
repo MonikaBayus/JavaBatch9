@@ -1,0 +1,18 @@
+package Assignments;
+
+public class Prime {
+
+	public static void main(String[] args) {
+		
+		int a = 2;
+		boolean prime = true;
+		
+		if(a%2==0 || a<0 || a!=2) {
+			System.out.println(!prime + " -  not a prime");
+		}else{
+			System.out.println(prime + " -  it's prime");
+		}
+			
+	}
+
+}
